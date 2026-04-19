@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi I am Lucifer
+About Me:
 I am Sandip Bhattacharya , a passionate full-stack developer with strong expertise in modern web development and system design using Next.js. I specialize in building scalable, high-performance web applications with clean, maintainable code and efficient architecture. I have hands-on experience designing full-stack systems using Next.js, including implementing SSR, SSG, ISR, and API routes to optimize performance, scalability, and SEO.<br><br><br><br>My technical skills include JavaScript, TypeScript, React, Next.js, Node.js, Express, and MongoDB, where I focus on developing robust backend services, REST APIs, and responsive frontend interfaces. I am experienced in structuring applications using modular architecture, integrating databases, handling authentication workflows, and optimizing application performance using modern best practices.<br><br><br><br>I enjoy solving complex problems, designing efficient system workflows, and continuously learning new technologies to build scalable and production-ready applications. My goal is to create reliable, optimized systems that deliver smooth user experiences and maintain long-term scalability.
 
 
