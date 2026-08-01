@@ -11,7 +11,6 @@ I like solving complex problems and picking up new tools along the way — my go
 ### 🌐 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandipwebdev)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SandipBhattacharya)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandip1080p@gmail.com)
 
 ---
